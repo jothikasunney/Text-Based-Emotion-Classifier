@@ -1,4 +1,4 @@
-# Text-Based-Emotion-Classifier
+# Text-Based-Emotion-Classifier using BERT
 Text Based Emotion Classifier using BERT fine tuning approaches
 In this Project, the BERT Fine-Tuning and Feature based approaches were considered for Text Emotion classification. Six different emotions from the text are classified using
 the proposed model which includes surprise, love, joy, fear, sadness, and anger. The dataset for these emotions is taken from the publicly available source and preprocessed properly. With the fine-tuning approach, Bert base models, Bert-LSTM
